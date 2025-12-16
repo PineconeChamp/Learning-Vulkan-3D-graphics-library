@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-O2",
+      "-o",
+      "VulkanTest",
+      "main.cpp"
+    ],
+    "directory": "/home/pine/Documents/LearningVulkan",
+    "file": "/home/pine/Documents/LearningVulkan/main.cpp",
+    "output": "/home/pine/Documents/LearningVulkan/VulkanTest"
+  }
+]
